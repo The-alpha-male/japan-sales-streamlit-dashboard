@@ -107,5 +107,3 @@ with tab_category:
     st.bar_chart(
         data=filtered_data.set_index("product_category")["sales_amount"],
     )
-
-457439
